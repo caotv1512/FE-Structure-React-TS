@@ -1,0 +1,17 @@
+export const API_REGISTER = "/auth/register";
+export const API_LOGIN = "/auth/login";
+export const API_CHECK_MAIL = "/auth/send-mail-reset-password";
+export const API_COMFIRM_PASSWORD = `/auth/forgot-password`;
+export const API_JOB = `/job`;
+export const API_COMPANY = "/company";
+export const API_REGISTER_CANDIDATE = "/candidates/register";
+export const API_LOGIN_CANDIDATE = "/candidates/login";
+export const API_CANDIDATES = "/candidates";
+export const API_UPDATE_CANDIDATE = "/candidates";
+export const API_INTRODUCE_CANDIDATE = "/introduce_candidates";
+export const API_EXP_CANDIDATE = "/experience_candidates";
+export const API_EDU_CANDIDATE = "/education_candidates";
+export const API_PROJECT_CANDIDATE = "/project_candidates";
+export const API_CERTIFICATE_CANDIDATE = "/certificate_candidates";
+export const API_SKILL_CANDIDATE = "/skill_candidates";
+export const API_SKILL = "/skill";
